@@ -1,0 +1,6 @@
+.kube/
+.minikube/
+Thumbs.db
+desktop.ini
+venv/
+*.log
